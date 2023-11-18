@@ -1,6 +1,6 @@
 
-## ¡Hola! Soy Kenia 🍃
-🌷 Soy Desarrolladora Full Stack Jr...
+## Hi! I'm Kenia 🍃
+🌷 I'm Full Stack Developer Jr...
 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://keniamontalvo.github.io/portfolio/)
